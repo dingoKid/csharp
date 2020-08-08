@@ -1,0 +1,13 @@
+C:\Users\Gyetvai D\C#\Projects\DailyProblem\Valid Mountain Array\bin\Debug\netcoreapp3.1\Valid Mountain Array.exe
+C:\Users\Gyetvai D\C#\Projects\DailyProblem\Valid Mountain Array\bin\Debug\netcoreapp3.1\Valid Mountain Array.deps.json
+C:\Users\Gyetvai D\C#\Projects\DailyProblem\Valid Mountain Array\bin\Debug\netcoreapp3.1\Valid Mountain Array.runtimeconfig.json
+C:\Users\Gyetvai D\C#\Projects\DailyProblem\Valid Mountain Array\bin\Debug\netcoreapp3.1\Valid Mountain Array.runtimeconfig.dev.json
+C:\Users\Gyetvai D\C#\Projects\DailyProblem\Valid Mountain Array\bin\Debug\netcoreapp3.1\Valid Mountain Array.dll
+C:\Users\Gyetvai D\C#\Projects\DailyProblem\Valid Mountain Array\bin\Debug\netcoreapp3.1\Valid Mountain Array.pdb
+C:\Users\Gyetvai D\C#\Projects\DailyProblem\Valid Mountain Array\obj\Debug\netcoreapp3.1\Valid Mountain Array.csprojAssemblyReference.cache
+C:\Users\Gyetvai D\C#\Projects\DailyProblem\Valid Mountain Array\obj\Debug\netcoreapp3.1\Valid Mountain Array.AssemblyInfoInputs.cache
+C:\Users\Gyetvai D\C#\Projects\DailyProblem\Valid Mountain Array\obj\Debug\netcoreapp3.1\Valid Mountain Array.AssemblyInfo.cs
+C:\Users\Gyetvai D\C#\Projects\DailyProblem\Valid Mountain Array\obj\Debug\netcoreapp3.1\Valid Mountain Array.csproj.CoreCompileInputs.cache
+C:\Users\Gyetvai D\C#\Projects\DailyProblem\Valid Mountain Array\obj\Debug\netcoreapp3.1\Valid Mountain Array.dll
+C:\Users\Gyetvai D\C#\Projects\DailyProblem\Valid Mountain Array\obj\Debug\netcoreapp3.1\Valid Mountain Array.pdb
+C:\Users\Gyetvai D\C#\Projects\DailyProblem\Valid Mountain Array\obj\Debug\netcoreapp3.1\Valid Mountain Array.genruntimeconfig.cache
