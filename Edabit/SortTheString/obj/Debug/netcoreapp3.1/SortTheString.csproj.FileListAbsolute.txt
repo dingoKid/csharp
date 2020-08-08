@@ -1,0 +1,13 @@
+C:\Users\Gyetvai D\C#\Projects\Edabit\SortTheString\bin\Debug\netcoreapp3.1\SortTheString.exe
+C:\Users\Gyetvai D\C#\Projects\Edabit\SortTheString\bin\Debug\netcoreapp3.1\SortTheString.deps.json
+C:\Users\Gyetvai D\C#\Projects\Edabit\SortTheString\bin\Debug\netcoreapp3.1\SortTheString.runtimeconfig.json
+C:\Users\Gyetvai D\C#\Projects\Edabit\SortTheString\bin\Debug\netcoreapp3.1\SortTheString.runtimeconfig.dev.json
+C:\Users\Gyetvai D\C#\Projects\Edabit\SortTheString\bin\Debug\netcoreapp3.1\SortTheString.dll
+C:\Users\Gyetvai D\C#\Projects\Edabit\SortTheString\bin\Debug\netcoreapp3.1\SortTheString.pdb
+C:\Users\Gyetvai D\C#\Projects\Edabit\SortTheString\obj\Debug\netcoreapp3.1\SortTheString.csprojAssemblyReference.cache
+C:\Users\Gyetvai D\C#\Projects\Edabit\SortTheString\obj\Debug\netcoreapp3.1\SortTheString.AssemblyInfoInputs.cache
+C:\Users\Gyetvai D\C#\Projects\Edabit\SortTheString\obj\Debug\netcoreapp3.1\SortTheString.AssemblyInfo.cs
+C:\Users\Gyetvai D\C#\Projects\Edabit\SortTheString\obj\Debug\netcoreapp3.1\SortTheString.csproj.CoreCompileInputs.cache
+C:\Users\Gyetvai D\C#\Projects\Edabit\SortTheString\obj\Debug\netcoreapp3.1\SortTheString.dll
+C:\Users\Gyetvai D\C#\Projects\Edabit\SortTheString\obj\Debug\netcoreapp3.1\SortTheString.pdb
+C:\Users\Gyetvai D\C#\Projects\Edabit\SortTheString\obj\Debug\netcoreapp3.1\SortTheString.genruntimeconfig.cache

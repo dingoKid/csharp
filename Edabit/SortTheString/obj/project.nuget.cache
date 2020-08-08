@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YpdV2LSIJflPgDPyrgjHXACTpFdFvoHsmcKKiPR3+NpkYR4tzIMd/BCz7PXNIUVSLBJI4IWc/j7n6UP1EY+LDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gyetvai D\\C#\\Projects\\Edabit\\SortTheString\\SortTheString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gyetvai D\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
