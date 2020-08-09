@@ -1,4 +1,5 @@
 #The Smallest Number
+https://edabit.com/challenge/jgHNFWFGkiTJpueTK
 
 Given a positive integer n, implement a function that finds the smallest number that is evenly divisible by the integers 1 through n inclusive. 
 Return value as a string.
