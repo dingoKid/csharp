@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Numerics;
@@ -10,7 +9,7 @@ namespace TheSmallestNumber
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine(Smallest(5));            
+            Console.WriteLine(Smallest(10));
         }
 
         public static string Smallest(int n)
@@ -71,4 +70,6 @@ namespace TheSmallestNumber
             return list;
         }
     }
+
 }
+
